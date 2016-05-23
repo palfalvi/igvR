@@ -1,0 +1,8 @@
+Package: igvR
+Title: R shiny html widget for igv.js API
+Version: 0.0.0.9000
+Authors@R: person(“Gergo”, “Palfalvi”, email = “palfalvi.gergo@gmail.com”, role = c("aut", "cre"))
+Description: With this html widget for shiny, you can easily embed an Integrative Genome Browser to your shiny webpage.
+Depends: R (>= 3.2.4)
+License: What license is it under?
+LazyData: true
